@@ -14,9 +14,15 @@ Write a C# code for the following UML class:
 - ToString() returns all the class fields in appropriate format.
 
 b) Write the statement(s) needed for the following questions:
+
 a) Create two objects named (currentAccount) and (savingAccount).
+
 b) Deposit 5000 in the savingAccount.
+
 c) Deposit 1000 in the currentAccount.
+
 d) Display the balance of the currentAccount.
+
 e) Withdraw 200 from the savingAccount and deposit it into the currentAccount.
+
 f) Print the details of both accounts as coded in the ToString( ) method.
