@@ -1,5 +1,6 @@
-
+## Prince Mohammad Bin Fahd University (PMU)
 MISY 2313 – Intermediate Programming
+
 Individual Homework# 1
 
 a.	Create a console-based program whose Main() method holds two integer variables. Assign values to the variables. Within the class, create two methods, Sum() and Difference(), that compute the sum of and difference between the values of the two variables, respectively. Each method should perform the computation and display the results. In turn, call each of the two methods from Main(), passing the values of the two integer variables. 
