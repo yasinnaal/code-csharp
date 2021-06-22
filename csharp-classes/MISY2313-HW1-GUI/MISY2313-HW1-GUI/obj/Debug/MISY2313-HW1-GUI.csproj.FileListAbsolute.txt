@@ -1,0 +1,9 @@
+C:\Users\Yaso\Desktop\KAlFares\MISY2313-HW1-GUI\MISY2313-HW1-GUI\bin\Debug\MISY2313-HW1-GUI.exe.config
+C:\Users\Yaso\Desktop\KAlFares\MISY2313-HW1-GUI\MISY2313-HW1-GUI\bin\Debug\MISY2313-HW1-GUI.exe
+C:\Users\Yaso\Desktop\KAlFares\MISY2313-HW1-GUI\MISY2313-HW1-GUI\bin\Debug\MISY2313-HW1-GUI.pdb
+C:\Users\Yaso\Desktop\KAlFares\MISY2313-HW1-GUI\MISY2313-HW1-GUI\obj\Debug\MISY2313_HW1_GUI.Form1.resources
+C:\Users\Yaso\Desktop\KAlFares\MISY2313-HW1-GUI\MISY2313-HW1-GUI\obj\Debug\MISY2313_HW1_GUI.Properties.Resources.resources
+C:\Users\Yaso\Desktop\KAlFares\MISY2313-HW1-GUI\MISY2313-HW1-GUI\obj\Debug\MISY2313-HW1-GUI.csproj.GenerateResource.cache
+C:\Users\Yaso\Desktop\KAlFares\MISY2313-HW1-GUI\MISY2313-HW1-GUI\obj\Debug\MISY2313-HW1-GUI.csproj.CoreCompileInputs.cache
+C:\Users\Yaso\Desktop\KAlFares\MISY2313-HW1-GUI\MISY2313-HW1-GUI\obj\Debug\MISY2313-HW1-GUI.exe
+C:\Users\Yaso\Desktop\KAlFares\MISY2313-HW1-GUI\MISY2313-HW1-GUI\obj\Debug\MISY2313-HW1-GUI.pdb
