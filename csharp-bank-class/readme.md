@@ -13,6 +13,19 @@ Write a C# code for the following UML class:
 - Withdraw (double) should subtract from balance if there is enough fund, or display appropriate message otherwise.
 - ToString() returns all the class fields in appropriate format.
 
+BankAccount
+- accId                 : string
+- accName               : string
+- accBalance            : double
++ BankAccount (accId, accName)
++ setBalance (amount: double) 
++ getBalance( ): double
++ getName ( ) : string
++ deposit (double)
++ withdraw (double) 
++ ToString ( ) : string
+
+
 b) Write the statement(s) needed for the following questions:
 
 a) Create two objects named (currentAccount) and (savingAccount).
